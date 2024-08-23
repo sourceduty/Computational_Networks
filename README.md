@@ -11,6 +11,30 @@ The focus of this GPT is on both theoretical and practical aspects of computatio
 To deliver accurate and relevant information, the Computational Networks GPT follows a structured approach, often engaging users with step-by-step guidance or multiple-choice questions to better understand their needs. It avoids making assumptions and prefers to ask clarifying questions to ensure it provides the most appropriate solutions. Maintaining a professional tone, this GPT is committed to delivering high-quality, actionable recommendations that empower users to succeed in their computational network endeavors.
 
 #
+### Computational Network Concepts
+
+1. Artificial Neural Network (ANN)
+2. Convolutional Neural Network (CNN)
+3. Recurrent Neural Network (RNN)
+4. Long Short-Term Memory (LSTM)
+5. Generative Adversarial Network (GAN)
+6. Autoencoder
+7. Feedforward Neural Network
+8. Backpropagation
+9. Dropout
+10. Batch Normalization
+11. Activation Function (e.g., ReLU, Sigmoid, Tanh)
+12. Loss Function (e.g., Cross-Entropy, Mean Squared Error)
+13. Gradient Descent
+14. Learning Rate
+15. Regularization (e.g., L2 Regularization, L1 Regularization)
+16. Transfer Learning
+17. Hyperparameter Tuning
+18. Overfitting
+19. Underfitting
+20. Epochs and Iterations
+
+#
 ### Computational Network Theory
 
 ![Neural Networks](https://github.com/user-attachments/assets/c031fb30-5495-4092-9c5a-dddec39ac0d0)
