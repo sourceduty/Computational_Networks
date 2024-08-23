@@ -50,10 +50,6 @@ Neural networks, on the other hand, are a specific application within the broade
 > "*High-level computational network theory development software engineer.*"
 
 #
-
-![AA](https://github.com/user-attachments/assets/4aae11b8-30d5-48b9-bb21-ef70c17a5d36)
-
-#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
