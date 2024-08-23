@@ -21,7 +21,7 @@ Neural networks, on the other hand, are a specific application within the broade
 
 #
 
-> Alex: "*Artificial intelligence assisted high-level computational network theory development.*"
+> Alex: "*AI-assisted high-level computational network theory development.*"
 
 #
 ### Related Links
