@@ -23,6 +23,8 @@ Neural networks, on the other hand, are a specific application within the broade
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
+<br>
+[Computational Programming](https://github.com/sourceduty/Computational_Programming)
 
 #
 
