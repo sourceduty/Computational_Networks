@@ -47,6 +47,8 @@ Neural networks, on the other hand, are a specific application within the broade
 
 > Alex: "*AI-assisted high-level computational network theory development.*"
 
+> "*High-level computational network theory development software engineer.*"
+
 #
 ### Related Links
 
