@@ -51,7 +51,7 @@ Neural networks, on the other hand, are a specific application within the broade
 
 #
 
-![Scientist](https://github.com/user-attachments/assets/36954349-1df3-4485-a340-6a625811055c)
+![Scientist](https://github.com/user-attachments/assets/ce13a880-422c-4cc8-8873-958eff255409)
 
 #
 ### Related Links
