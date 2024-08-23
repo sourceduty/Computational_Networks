@@ -20,15 +20,15 @@ Computational network theory and neural networks are related but distinct areas 
 Neural networks, on the other hand, are a specific application within the broader realm of computational network theory. They are a type of artificial intelligence model inspired by the human brain's neural structure, primarily used for machine learning tasks. While neural networks do involve studying the connections and interactions between neurons (nodes) and synapses (weights), their primary focus is on learning patterns from data and making predictions or decisions. Thus, neural networks represent a specialized instance of network structures that fall under the umbrella of computational network theory but are not as broad in scope. In summary, computational network theory can be seen as a higher-level science that includes neural networks as one of its specific applications, but each field has its unique focus and contributions.
 
 #
+
+> Alex: "*Artificial intelligence assisted high-level computational network theory development.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
 <br>
 [Computational Programming](https://github.com/sourceduty/Computational_Programming)
-
-#
-
-> Alex: "*Artificial intelligence assisted high-level computational netork theory development.*"
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
