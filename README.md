@@ -1,4 +1,4 @@
-![Scientist](https://github.com/user-attachments/assets/98388568-e59e-4f6e-8104-002833a9553c)![Computational Networks](https://github.com/user-attachments/assets/b6d68a04-f689-41f3-b7e5-eaf16387157b)
+![Computational Networks](https://github.com/user-attachments/assets/b6d68a04-f689-41f3-b7e5-eaf16387157b)
 
 > Assistive computational network model and system development.
 
