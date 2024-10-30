@@ -57,6 +57,8 @@ Neural networks, on the other hand, are a specific application within the broade
 [Computational Programming](https://github.com/sourceduty/Computational_Programming)
 <br>
 [Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
+<br>
+[VMN](https://github.com/sourceduty/VMN)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
