@@ -59,6 +59,8 @@ Neural networks, on the other hand, are a specific application within the broade
 [Network Circuit Theory](https://github.com/sourceduty/Network_Circuit_Theory)
 <br>
 [VMN](https://github.com/sourceduty/VMN)
+<br>
+[Bot-2-Bot](https://github.com/sourceduty/Bot-to-Bot)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
